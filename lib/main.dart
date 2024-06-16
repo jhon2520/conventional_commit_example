@@ -23,7 +23,7 @@ class _HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Material App Bar'),
+        title: const Text('braking change'),
       ),
       body: const Center(
         child: Text('cambio nombre'),
